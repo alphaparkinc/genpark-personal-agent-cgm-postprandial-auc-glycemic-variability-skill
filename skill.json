@@ -1,0 +1,16 @@
+{
+  "name": "genpark-personal-agent-cgm-postprandial-auc-glycemic-variability-skill",
+  "version": "1.0.0",
+  "title": "CGM Incremental AUC & Postprandial Glycemic Excursion Skill",
+  "category": "Personal Agent (Bio / Metabolic Longevity)",
+  "description": "Calculates trapezoidal incremental Area Under the Curve (iAUC), Mean Amplitude of Glycemic Excursions (MAGE), and J-Index from continuous glucose sensor streams.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "compute_postprandial_glycemic_excursion"
+  ],
+  "dependencies": []
+}
